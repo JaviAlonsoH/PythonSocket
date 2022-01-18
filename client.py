@@ -22,7 +22,6 @@ def send(msg):
 
 send("Hello World!")
 send("Hello World!")
-send("Hello World!")
 input()
 send("Hello Javi!")
 
